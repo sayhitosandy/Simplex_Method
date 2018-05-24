@@ -1,5 +1,5 @@
 # Revised Simplex Method
-Implementation of Revised Simplex Method in Python (My Assignment in LO course [MTH305]  [IIIT-Delhi]). [Algo from `Introduction to Linear Optimization by Dimitris Bertsimas and John N. Tsitsiklis`]
+Implementation of Revised Simplex Method in Python (My Assignment in Linear Optimization course [MTH305]  [IIIT-Delhi]). [Algo from `Introduction to Linear Optimization by Dimitris Bertsimas and John N. Tsitsiklis`]
 
 Further, we solved the following Linear Problem:
 ```
